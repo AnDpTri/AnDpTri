@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Đặng Hoàng An</h1>
-<h3 align="center">I'm an intern from Vietnam, currently working on AI,Algorithm and Computer Vision.</h3>
+<h3 align="center">I'm an intern from Vietnam, currently working on Algorithm,Artificial Intelligence and Computer Vision.</h3>
 
 <div align="center">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=AnDpTri&label=Profile%20views&color=0e75b6&style=flat" alt="AnDpTri" /> </p>
@@ -18,12 +18,7 @@
 - ⚡ Fun fact **This Peak is so shit**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/anghoangan.213530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anghoangan.213530" height="30" width="40" /></a>
-
-<a href="https://www.linkedin.com/in/an-%C4%91%E1%BA%B7ng-ho%C3%A0ng-78527b354/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnDpTri" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/annghong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="AnDpTri" height="30" width="40" /></a>
-</p>
+<p align="left"><a href="https://www.facebook.com/anghoangan.213530" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anghoangan.213530" height="30" width="40" /></a><a href="https://www.linkedin.com/in/an-%C4%91%E1%BA%B7ng-ho%C3%A0ng-78527b354/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnDpTri" height="30" width="40" /></a><a href="https://www.kaggle.com/annghong" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="AnDpTri" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
