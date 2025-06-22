@@ -1,63 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Đặng Hoàng An's Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #0D1117;
-            color: #d4be98;
-            margin: 0;
-            padding: 20px;
-            line-height: 1.6;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            text-align: center;
-        }
-        h1 {
-            color: #fbf1c7;
-            font-size: 2.5em;
-        }
-        h2 {
-            color: #83a598;
-            font-size: 1.8em;
-            margin-top: 30px;
-        }
-        p {
-            font-size: 1.1em;
-        }
-        a {
-            color: #fe8019;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .social-icons img, .tools-icons img {
-            width: 40px;
-            height: 40px;
-            margin: 5px;
-        }
-        .stats {
-            margin-top: 20px;
-        }
-        .stats img {
-            margin: 10px;
-            max-width: 100%;
-        }
-        hr {
-            border: 0;
-            height: 1px;
-            background: #83a598;
-            margin: 20px 0;
-        }
-    </style>
-</head>
-<body>
+
     <div class="container">
         <h1>👋 Hi, I'm Đặng Hoàng An</h1>
         <h2>🚀 Intern from Vietnam | Passionate about Algorithms, AI, and Computer Vision</h2>
@@ -143,5 +84,3 @@
 
         <p><em>Thanks for visiting my profile! Let's connect and build something amazing together!</em></p>
     </div>
-</body>
-</html>
