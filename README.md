@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm AnDpTri</h1>
 <h3 align="center">I'm an intern from Vietnam, currently working on Algorithm,Artificial Intelligence and Computer Vision.</h3>
-<div align="center">Add commentMore actions
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=AnDpTri&label=Profile%20views&color=0e75b6&style=flat" alt="AnDpTri" /> </p>
 
   <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AnDpTri&#x26;theme=darkhub&#x26;no-frame=true&#x26;title_color=fbf1c7&#x26;text_color=d4be98" alt="GitHub Trophies"></a> </p>
