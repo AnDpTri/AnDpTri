@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=AnDpTri&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Algorithm%20%C2%B7%20AI%20%C2%B7%20Computer%20Vision&descAlignY=58&descSize=20&animation=fadeIn" alt="AnDpTri banner" width="100%" />
+<img src="./assets/matrix-rain.svg" alt="AnDpTri - Matrix rain banner" width="100%" />
 
 <a href="https://github.com/AnDpTri">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+An+%F0%9F%91%8B+(ThePeak);Intern+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Training+models+%26+solving+algorithms;Building+things+that+see+and+understand" alt="Typing SVG" />
