@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="./assets/matrix-rain-v2.svg" alt="AnDpTri - Matrix rain banner" width="100%" />
 
