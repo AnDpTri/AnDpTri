@@ -51,7 +51,7 @@ class AnDpTri:
 
 | Project | Description | Stack |
 | :-- | :-- | :-- |
-| 🏆 [**Phenikaa AI Hackathon 2026 – Top 6**](https://github.com/AnDpTri/Top13-Phenikaa-AI-Hackathon-2026) | Top 6 – Phenikaa Campus Courier 2026: multimodal delivery AI (CV + Vietnamese NLP + multi-robot solver) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🏆 [**Phenikaa AI Hackathon 2026 – Top 6**](https://github.com/AnDpTri/Top6-Phenikaa-AI-Hackathon-2026) | Top 6 – Phenikaa Campus Courier 2026: multimodal delivery AI (CV + Vietnamese NLP + multi-robot solver) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 🔍 [**mvtec-anomaly-detection**](https://github.com/AnDpTri/mvtec-anomaly-detection) | Unsupervised anomaly detection & localisation on industrial products (Autoencoder, PaDiM, PatchCore on MVTec AD) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 🚦 [**Traffic-Sign-Detection**](https://github.com/HoanBuCon/Traffic-Sign-Detection) | Vietnam traffic sign detection (collaboration) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
