@@ -53,7 +53,7 @@ class AnDpTri:
 | :-- | :-- | :-- |
 | 🏆 [**Phenikaa AI Hackathon 2026 – Top 6**](https://github.com/AnDpTri/Top6-Phenikaa-AI-Hackathon-2026) | Top 6 – Phenikaa Campus Courier 2026: multimodal delivery AI (CV + Vietnamese NLP + multi-robot solver) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 💸 [**Wallet May Cry**](https://github.com/AnDpTri/Viettel-Software) | Personal finance web app: multi-device sessions, OAuth, bill reminders, family collaboration, PWA and an AI assistant | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| 👁️ [**GEOMETRIC_GAZE_ESTIMATION**](https://github.com/AnDpTri/GEOMETRIC_GAZE_ESTIMATION) | Low-latency geometric gaze estimation with a hybrid GPU (ONNX/CUDA) and ARM (MediaPipe) engine, runs on PC and Raspberry Pi 4 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🗡️ **katana-zero-vi** | Vietnamese localisation of Katana ZERO: AI-assisted translation pipeline with a review web page (private) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 🔍 [**mvtec-anomaly-detection**](https://github.com/AnDpTri/mvtec-anomaly-detection) | Unsupervised anomaly detection & localisation on industrial products (Autoencoder, PaDiM, PatchCore on MVTec AD) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 🚦 [**Traffic-Sign-Detection**](https://github.com/HoanBuCon/Traffic-Sign-Detection) | Vietnam traffic sign detection (collaboration) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
