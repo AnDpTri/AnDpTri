@@ -30,7 +30,8 @@ class AnDpTri:
 ```
 
 - 🔭 Currently working on **[Vietnam Traffic Sign Detection](https://github.com/HoanBuCon/Traffic-Sign-Detection)**
-- 🏆 **Top 13** – Phenikaa AI Hackathon 2026 (Team Devil May Cry)
+- 🏆 **Top 6** – Phenikaa AI Hackathon 2026 (Team Devil May Cry)
+- 🥉 **Consolation Prize (Giải Khuyến khích)** – Vietnam Student Olympiad in Informatics (Olympic Tin học Sinh viên)
 - 🌱 Deepening my knowledge of anomaly detection, multimodal AI and competitive programming
 - 📫 Reach me at **[andanghoang0@gmail.com](mailto:andanghoang0@gmail.com)**
 
@@ -50,11 +51,8 @@ class AnDpTri:
 
 | Project | Description | Stack |
 | :-- | :-- | :-- |
-| 🏆 [**Top13-Phenikaa-AI-Hackathon-2026**](https://github.com/AnDpTri/Top13-Phenikaa-AI-Hackathon-2026) | Top 13 (71.17%) – Phenikaa Campus Courier 2026: multimodal delivery AI (CV + Vietnamese NLP + multi-robot solver) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🏆 [**Phenikaa AI Hackathon 2026 – Top 6**](https://github.com/AnDpTri/Top13-Phenikaa-AI-Hackathon-2026) | Top 6 – Phenikaa Campus Courier 2026: multimodal delivery AI (CV + Vietnamese NLP + multi-robot solver) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 🔍 [**mvtec-anomaly-detection**](https://github.com/AnDpTri/mvtec-anomaly-detection) | Unsupervised anomaly detection & localisation on industrial products (Autoencoder, PaDiM, PatchCore on MVTec AD) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🎮 [**mgq-paradox-viethoa**](https://github.com/AnDpTri/mgq-paradox-viethoa) | Vietnamese localisation of Monster Girl Quest Paradox 3.06 – tools & translation data | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🧩 [**TaskbarHeroFarm**](https://github.com/AnDpTri/TaskbarHeroFarm) | BepInEx IL2CPP mod for Taskbar Hero | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
-| 🤝 [**teamwork-practice**](https://github.com/AnDpTri/teamwork-practice) | Practising teamwork and collaborative Git workflow | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 🚦 [**Traffic-Sign-Detection**](https://github.com/HoanBuCon/Traffic-Sign-Detection) | Vietnam traffic sign detection (collaboration) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
