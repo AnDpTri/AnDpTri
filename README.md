@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="./assets/matrix-rain.svg" alt="AnDpTri - Matrix rain banner" width="100%" />
+<img src="./assets/matrix-rain-v2.svg" alt="AnDpTri - Matrix rain banner" width="100%" />
 
 <a href="https://github.com/AnDpTri">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+An+%F0%9F%91%8B+(ThePeak);Intern+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Training+models+%26+solving+algorithms;Building+things+that+see+and+understand" alt="Typing SVG" />
