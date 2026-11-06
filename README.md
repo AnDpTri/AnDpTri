@@ -30,7 +30,7 @@ class AnDpTri:
 ```
 
 - 🔭 Currently working on **[Vietnam Traffic Sign Detection](https://github.com/HoanBuCon/Traffic-Sign-Detection)**
-- 🏆 **Top 5** – Phenikaa AI Hackathon 2026 (Team Devil May Cry)
+- 🏆 **Top 6** – Phenikaa AI Hackathon 2026 (Team Devil May Cry)
 - 🥉 **Consolation Prize (Giải Khuyến khích)** – Vietnam Student Olympiad in Informatics (Olympic Tin học Sinh viên)
 - 🌱 Deepening my knowledge of anomaly detection, multimodal AI and competitive programming
 - 📫 Reach me at **[andanghoang0@gmail.com](mailto:andanghoang0@gmail.com)**
@@ -51,7 +51,7 @@ class AnDpTri:
 
 | Project | Description | Stack |
 | :-- | :-- | :-- |
-| 🏆 [**Phenikaa AI Hackathon 2026 – Top 5**](https://github.com/AnDpTri/phenikaa-ai-hackathon-2026) | Top 5 – Phenikaa Campus Courier 2026: multimodal delivery AI (CV + Vietnamese NLP + multi-robot solver) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🏆 [**Phenikaa AI Hackathon 2026 – Top 6**](https://github.com/AnDpTri/Top6-Phenikaa-AI-Hackathon-2026) | Top 6 – Phenikaa Campus Courier 2026: multimodal delivery AI (CV + Vietnamese NLP + multi-robot solver) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 💸 [**Wallet May Cry**](https://github.com/AnDpTri/Viettel-Software) | Personal finance web app: multi-device sessions, OAuth, bill reminders, family collaboration, PWA and an AI assistant | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | 🗡️ [**katana-zero-vi**](https://github.com/AnDpTri/katana-zero-vi) | Toolkit for a Vietnamese localisation of Katana ZERO: font and string patching plus an AI-assisted translation workflow (tools only, no game assets) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 🔍 [**mvtec-anomaly-detection**](https://github.com/AnDpTri/mvtec-anomaly-detection) | Unsupervised anomaly detection & localisation on industrial products (Autoencoder, PaDiM, PatchCore on MVTec AD) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
